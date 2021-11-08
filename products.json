@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Apple Iphone 13 PRO MAX 512GB",
+    "price": "66 500",
+    "url": "images/iphone13-promax.webp",
+    "id": "34563",
+    "color": "Sierra blue"
+  },
+  {
+    "name": "Apple Iphone 12 PRO MAX DUAL SIM 512GB",
+    "price": "44 820",
+    "url": "images/iphone12-promax.webp",
+    "id": "52896",
+    "color": "Pacific blue"
+  },
+  {
+    "name": "Apple Iphone 13 MINI 512GB",
+    "price": "33 515",
+    "url": "images/iphone13-mini.webp",
+    "id": "11289",
+    "color": "Starlight"
+  },
+  {
+    "name": "Apple Iphone 11 PRO MAX 512GB",
+    "price": "35 640",
+    "url": "images/iphone11-promax.webp",
+    "id": "45367",
+    "color": "Gold"
+  },
+  {
+    "name": "Samsung Galaxy Z FOLD3 5G 12/512GB",
+    "price": "54 499",
+    "url": "images/samsung-fold3.webp",
+    "id": "52789",
+    "color": "Phantom silver"
+  },
+  {
+    "name": "Samsung Galaxy Z FOLD2  12/512GB",
+    "price": "43 750",
+    "url": "images/samsung-fold2.webp",
+    "id": "19637",
+    "color": "Mystic bronze"
+  },
+  {
+    "name": "Samsung Galaxy Z FLIP3 5G 8/256GB",
+    "price": "32 499",
+    "url": "images/samsung-flip3.webp",
+    "id": "69935",
+    "color": "Cream"
+  },
+  {
+    "name": "Samsung Galaxy S21 ULTRA DUAL 12/256GB",
+    "price": "31 488",
+    "url": "images/samsung-s21.webp",
+    "id": "28725",
+    "color": "Phantom silver"
+  },
+  {
+    "name": "Xiaomi MI 11 ULTRA 12/256GB",
+    "price": "33 990",
+    "url": "images/xiaomi-11ultra.webp",
+    "id": "38729",
+    "color": "Ceramic white"
+  },
+  {
+    "name": "Xiaomi MI 11T PRO 8/256GB",
+    "price": "19 499",
+    "url": "images/xiaomi-11tpro.webp",
+    "id": "77589",
+    "color": "Moonlight white"
+  },
+  {
+    "name": "Xiaomi MI 10  12/256GB",
+    "price": "17 130",
+    "url": "images/xiaomi-10.webp",
+    "id": "36398",
+    "color": "Peach gold"
+  },
+  {
+    "name": "Xiaomi POCO F3 8/256GB",
+    "price": "11 399",
+    "url": "images/xiaomi-pocof3.webp",
+    "id": "12358",
+    "color": "Ocean blue"
+  }
+]
